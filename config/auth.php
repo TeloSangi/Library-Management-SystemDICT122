@@ -26,3 +26,4 @@ function redirectIfNotAuthenticated($location) {
         exit();
     }
 }
+?>
